@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 3,
+    "Title": "Book-1",
+    "Price": 18.99,
+    "ISBN": "54564-1310",
+    "PublisherId": 1
+  },
+  {
+    "Id": 5,
+    "Title": "Book-2",
+    "Price": 28.99,
+    "ISBN": "54564-1311",
+    "PublisherId": 1
+  },
+  {
+    "Id": 8,
+    "Title": "Book-3",
+    "Price": 38.99,
+    "ISBN": "54564-1312",
+    "PublisherId": 2
+  },
+  {
+    "Id": 11,
+    "Title": "Book-4",
+    "Price": 48.99,
+    "ISBN": "54564-1313",
+    "PublisherId": 2
+  }
+]

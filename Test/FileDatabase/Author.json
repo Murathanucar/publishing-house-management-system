@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Author First Name-1",
+    "LastName": "Author Last Name-1",
+    "BookId": 3
+  },
+  {
+    "Id": 2,
+    "FirstName": "Author First Name-2",
+    "LastName": "Author Last Name-2",
+    "BookId": 5
+  },
+  {
+    "Id": 3,
+    "FirstName": "Author First Name-3",
+    "LastName": "Author Last Name-3",
+    "BookId": 8
+  },
+  {
+    "Id": 4,
+    "FirstName": "Author First Name-4",
+    "LastName": "Author Last Name-4",
+    "BookId": 11
+  },
+  {
+    "Id": 5,
+    "FirstName": "Author First Name-5",
+    "LastName": "Author Last Name-5",
+    "BookId": 11
+  }
+]
